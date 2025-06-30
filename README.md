@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ailtop
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning unity...
-- 💞️ I am a man and I like women, respect!!!
+- 👋 Hi, I’m @Ailtop  
+- 👀 I'm passionate about programming and game development  
+- 🌱 Currently learning Unity and exploring its full potential  
+- 💬 Always open to sharing and learning from others  
 
 <!---
 Ailtop/Ailtop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
